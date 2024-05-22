@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: auto;
+    width: 100%;
+}
+.navbar{
+    height: 150px;
+    width: 100%;
+    display: flex;
+}
+.navbar img{
+    height: 50px;
+    width: 100px ;
+    margin: 50px;
+    
+}
+.menu ul {
+    display:flex;
+}
+.menu ul li {
+    list-style: none;
+    margin-left: 50px;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.menu{
+    margin: 70px;
+    margin-left: 300px;
+}
+.menu button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(155, 70, 168);
+    color: white;
+    border: 0;
+    border-radius:50px ;
+    margin-top: -10px;
+    font-size: 16px;
+}
+.content1{
+    height: 700px;
+    width: 100%;
+}
+.content11{
+    height: 500px;
+    width: 90%;
+    background-color: rgb(48, 13, 48);
+    border-radius: 20px;
+    color: white;
+}
+.content11 h1{
+    font-size: 50px;
+    margin-right: 650px;
+    margin-top: 50px;
+    padding: 30px;
+}
+.content11 p{
+    font-size: 20px;
+    margin-right: 600px;
+    padding: 30px;
+}
+.content11 button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(155, 70, 168);
+    color: white;
+    border: 0;
+    border-radius:50px ;
+    margin-top: -10px;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.content12 .button2{
+    height: 50px;
+    width: 200px;
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+    border-radius:50px ;
+    margin-top: -10px;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 10px;
+} 
+.content1 .image1 img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: -700px;
+}
+.content1 .image2 img{
+    height: 400px;
+    width: 350px;
+    border-radius: 50px;
+    margin-left: 900px;
+    margin-top: -800px;
+}
+.content1 .image3 img{
+    height: 250px;
+    width: 400px;
+    border-radius: 50px;
+    margin-left: 700px;
+    
+}
+
+
+
