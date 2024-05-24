@@ -5,6 +5,7 @@
 .container{
     height: auto;
     width: 100%;
+    background-color: rgb(246, 246, 250);
 }
 .navbar{
     height: 150px;
@@ -334,4 +335,196 @@
     border-radius: 20px;
     margin-left: 30px;
     margin-top: 20px;
+}
+.box41 img{
+    height: 100px;
+    width: 80px;
+    margin: 30px;
+}
+.box41 h3{
+    font-size: 25px;
+    margin-left: 30px;
+}
+.box41 p{
+    margin-left: 30px;
+    margin-right: 5px;
+}
+.content41{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.box42 img{
+    height: 90px;
+    width: 80px;
+    margin: 30px;
+}
+.box42 h3{
+    font-size: 25px;
+    margin-left: 30px;
+}
+.box42 p{
+    margin-left: 30px;
+    margin-right: 5px;
+}
+.box43 img{
+    height: 80px;
+    width: 80px;
+    margin: 30px;
+}
+.box43 h3{
+    font-size: 25px;
+    margin-left: 30px;
+}
+.box43 p{
+    margin-left: 30px;
+    margin-right: 5px;
+}
+.content4 button{
+    height: 50px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px black solid;
+    border-radius: 50px;
+    margin-left: 535px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.content5{
+    height: 800px;
+    width: 100%;
+}
+.content51{
+    height: 600px;
+    width: 90%;
+    background-color: rgb(48, 13, 48);
+    border-radius: 30px;
+    margin-left: 120px;
+}
+.content5 img{
+    height: 450px;
+    width: 350px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: -50px;
+}
+.content51 .data1{
+    color: white;
+    margin-left: 500px;
+    margin-top: -400px;
+}
+.content51 .data1 h2{
+    font-size: 50px;
+    
+}
+.data1 p{
+    font-size: 20px;
+   margin-top: 20px;
+}
+.content51 .Button .button2{
+    height: 50px;
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+    border-radius:50px ;
+    margin-top: -10px;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.content6{
+    height: 700px;
+    width: 100%;
+    margin-top: 100px;
+}
+.content6 h1{
+    font-size: 50px;
+    margin-right: 800px;
+    margin-left: 50px;
+    
+}
+.content6 p{
+    font-size: 20px;
+    margin-left: 50PX;
+    margin-right: 800px;
+}
+.content6 button{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(155, 70, 168);
+    color: white;
+    border: 0;
+    border-radius:50px ;
+    margin-top: -10px;
+    font-size: 16px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.content61 img{
+    height: 450px;
+    width: 350px;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: -400px;
+}
+.content62 img{
+    height: 450px;
+    width: 350px;
+    border-radius: 50px;
+    margin-left: 900px;
+    margin-top: -300px;
+}
+.content7{
+    height: 800px;
+    width: 95%;
+    background-color: rgb(230, 214, 245);
+    border-radius: 50px;
+    margin-left: 30px;
+}
+.content7 h2{
+    font-size: 50px;
+    margin-left: 400px;
+    margin-right: 300px;
+   
+}
+.content7 p{
+    font-size: 20px;
+    margin-right: 300px;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.content71{
+    height: 350px;
+    width: 600px;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.content71 h3{
+    font-size:30px;
+    margin-left: 30px;
+}
+.content7 .content71 p{
+    font-size: 16px;
+    width: 80%;
+    margin-left: 70px;
+    
+}
+.content72{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.content72 img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.content71 .content72 p{
+    font-size: 16px;
+    width: 80%;
+    margin-left: 70px;
 }
